@@ -1,0 +1,10 @@
+2019-03-21 13:58:29 INFO  Class:22 - Opening browser
+2019-03-21 13:58:34 INFO  Class:30 - Verifying Logo of the Page
+2019-03-21 13:58:35 INFO  Class:22 - Opening browser
+2019-03-21 13:58:40 INFO  Class:38 - Verifying title of the Page
+2019-03-21 13:58:41 INFO  Class:22 - Opening browser
+2019-03-21 13:58:45 INFO  Class:45 - Verifying login
+2019-03-21 13:58:48 INFO  Class:22 - Opening browser
+2019-03-21 13:58:53 INFO  Class:55 - Verifying Error Message With Invalid UserName Password
+2019-03-21 13:59:01 INFO  Class:22 - Opening browser
+2019-03-21 13:59:05 INFO  Class:66 - Verifying User In HomePage
